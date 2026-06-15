@@ -1,2 +1,2 @@
-var txt="Oi"
+txt="Oi"
 print(txt)
